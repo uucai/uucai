@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zhuangli Cai
-- 👀 I’m interested in nanoscale heat transport, polymer and perovskite.
+- 👀 I’m interested in nanoscale heat transport, polymer and perovskite materials.
 - 🌱 I’m currently learning C/C++ and quantum mechanics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact me via caizhuangli@sjtu.edu.cn
