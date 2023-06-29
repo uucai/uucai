@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C/C++ and quantum mechanics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact me via caizhuangli@sjtu.edu.cn
+- My pages: https://uucai.github.io/
 
 <!---
 uucai/uucai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
